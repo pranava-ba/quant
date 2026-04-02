@@ -3,7 +3,7 @@
 | Day  | Date  | Task                                      |
 |------|-------|-------------------------------------------|
 | D001 | Apr01 | create the repository and the roadmap     |
-| D002 | Apr02 | installed varsity by zerodha to study the basics |
+| D002 | Apr02 | installed varsity by zerodha to study the basics <br> finished Module 1 . Beginner : Stock market basics|
 | D003 | Apr03 |                                           |
 | D004 | Apr04 |                                           |
 | D005 | Apr05 |                                           |
