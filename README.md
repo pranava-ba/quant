@@ -31,6 +31,6 @@
 
 **Week 1 Log:**
 ```
-[ ] Day 1  [ ] Day 2  [ ] Day 3  [ ] Day 4  [ ] Day 5  [ ] Day 6  [ ] Day 7
+[ ] Day 1  [y] Day 2  [y] Day 3  [ ] Day 4  [ ] Day 5  [ ] Day 6  [ ] Day 7
 Notes:
 ```
