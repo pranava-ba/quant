@@ -7,7 +7,7 @@
 | D003 | Apr03 | finished Module 1. Chapter 2 Financial Regulator & Intermediaries                                           |
 | D004 | Apr04 | attended the quiz                                           |
 | D005 | Apr05 |Ch2 : Stock Market basics                                                |
-| D006 | Apr06 |                                           |
+| D006 | Apr06 | Market Index                                           |
 | D007 | Apr07 |                                           |
 | D008 | Apr08 |                                           |
 | D009 | Apr09 |                                           |
