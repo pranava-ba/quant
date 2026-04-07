@@ -8,7 +8,7 @@
 | D004 | Apr04 | attended the quiz                                           |
 | D005 | Apr05 |Ch2 : Stock Market basics                                                |
 | D006 | Apr06 | Market Index                                           |
-| D007 | Apr07 |                                           |
+| D007 | Apr07 | Jargon                                           |
 | D008 | Apr08 |                                           |
 | D009 | Apr09 |                                           |
 | D010 | Apr10 |                                           |
