@@ -10,7 +10,7 @@
 | D006 | Apr06 | Market Index                                           |
 | D007 | Apr07 | Jargon                                           |
 | D008 | Apr08 | trading terminal                                           |
-| D009 | Apr09 |                                           |
+| D009 | Apr09 | technical analysis and jargon                                           |
 | D010 | Apr10 |                                           |
 | D011 | Apr11 |                                           |
 | D012 | Apr12 |                                           |
