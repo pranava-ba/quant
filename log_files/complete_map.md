@@ -11,7 +11,7 @@
 | D007 | Apr07 | Jargon                                           |
 | D008 | Apr08 | trading terminal                                           |
 | D009 | Apr09 | technical analysis and jargon                                           |
-| D010 | Apr10 |                                           |
+| D010 | Apr10 | revision of previous topics                                           |
 | D011 | Apr11 |                                           |
 | D012 | Apr12 |                                           |
 | D013 | Apr13 |                                           |
