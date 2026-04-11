@@ -12,7 +12,7 @@
 | D008 | Apr08 | trading terminal                                           |
 | D009 | Apr09 | technical analysis and jargon                                           |
 | D010 | Apr10 | revision of previous topics                                           |
-| D011 | Apr11 |                                           |
+| D011 | Apr11 | started paper trading                                           |
 | D012 | Apr12 |                                           |
 | D013 | Apr13 |                                           |
 | D014 | Apr14 |                                           |
