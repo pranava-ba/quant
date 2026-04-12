@@ -13,7 +13,7 @@
 | D009 | Apr09 | technical analysis and jargon                                           |
 | D010 | Apr10 | revision of previous topics                                           |
 | D011 | Apr11 | started paper trading                                           |
-| D012 | Apr12 |                                           |
+| D012 | Apr12 | break                                           |
 | D013 | Apr13 |                                           |
 | D014 | Apr14 |                                           |
 | D015 | Apr15 |                                           |
