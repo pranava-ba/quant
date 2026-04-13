@@ -14,7 +14,7 @@
 | D010 | Apr10 | revision of previous topics                                           |
 | D011 | Apr11 | started paper trading                                           |
 | D012 | Apr12 | break                                           |
-| D013 | Apr13 |                                           |
+| D013 | Apr13 | connected with senior                                          |
 | D014 | Apr14 |                                           |
 | D015 | Apr15 |                                           |
 | D016 | Apr16 |                                           |
