@@ -15,7 +15,7 @@
 | D011 | Apr11 | started paper trading                                           |
 | D012 | Apr12 | break                                           |
 | D013 | Apr13 | connected with senior                                          |
-| D014 | Apr14 |                                           |
+| D014 | Apr14 | reading calculus van der post                                           |
 | D015 | Apr15 |                                           |
 | D016 | Apr16 |                                           |
 | D017 | Apr17 |                                           |
