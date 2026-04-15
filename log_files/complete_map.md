@@ -16,7 +16,7 @@
 | D012 | Apr12 | break                                           |
 | D013 | Apr13 | connected with senior                                          |
 | D014 | Apr14 | reading calculus van der post                                           |
-| D015 | Apr15 |                                           |
+| D015 | Apr15 | project                                           |
 | D016 | Apr16 |                                           |
 | D017 | Apr17 |                                           |
 | D018 | Apr18 |                                           |
