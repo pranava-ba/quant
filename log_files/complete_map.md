@@ -17,7 +17,7 @@
 | D013 | Apr13 | connected with senior                                          |
 | D014 | Apr14 | reading calculus van der post                                           |
 | D015 | Apr15 | project                                           |
-| D016 | Apr16 |                                           |
+| D016 | Apr16 | went through quantnet                                           |
 | D017 | Apr17 |                                           |
 | D018 | Apr18 |                                           |
 | D019 | Apr19 |                                           |
