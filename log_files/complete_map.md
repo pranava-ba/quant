@@ -18,7 +18,7 @@
 | D014 | Apr14 | reading calculus van der post                                           |
 | D015 | Apr15 | project                                           |
 | D016 | Apr16 | went through quantnet                                           |
-| D017 | Apr17 |                                           |
+| D017 | Apr17 | refine the roadmap, cut out excess                                           |
 | D018 | Apr18 |                                           |
 | D019 | Apr19 |                                           |
 | D020 | Apr20 |                                           |
