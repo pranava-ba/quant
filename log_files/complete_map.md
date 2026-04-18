@@ -19,7 +19,7 @@
 | D015 | Apr15 | project                                           |
 | D016 | Apr16 | went through quantnet                                           |
 | D017 | Apr17 | refine the roadmap, cut out excess                                           |
-| D018 | Apr18 | https://www.youtube.com/watch?v=857ejsBc3IA                                           |
+| D018 | Apr18 | project [https://www.youtube.com/watch?v=857ejsBc3IA]                                           |
 | D019 | Apr19 | https://www.yosutube.com/watch?v=zJf5B5haBjc                                           |
 | D020 | Apr20 |                                           |
 | D021 | Apr21 |                                           |
