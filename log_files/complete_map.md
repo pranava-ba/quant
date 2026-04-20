@@ -21,7 +21,7 @@
 | D017 | Apr17 | refine the roadmap, cut out excess                                           |
 | D018 | Apr18 | project [https://www.youtube.com/watch?v=857ejsBc3IA]                                           |
 | D019 | Apr19 | https://www.yosutube.com/watch?v=zJf5B5haBjc                                           |
-| D020 | Apr20 |                                           |
+| D020 | Apr20 | peer meeting                                           |
 | D021 | Apr21 |                                           |
 | D022 | Apr22 |                                           |
 | D023 | Apr23 |                                           |
