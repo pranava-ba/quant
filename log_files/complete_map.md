@@ -22,7 +22,7 @@
 | D018 | Apr18 | project [https://www.youtube.com/watch?v=857ejsBc3IA]                                           |
 | D019 | Apr19 | https://www.yosutube.com/watch?v=zJf5B5haBjc                                           |
 | D020 | Apr20 | peer meeting                                           |
-| D021 | Apr21 |                                           |
+| D021 | Apr21 | break                                           |
 | D022 | Apr22 |                                           |
 | D023 | Apr23 |                                           |
 | D024 | Apr24 |                                           |
