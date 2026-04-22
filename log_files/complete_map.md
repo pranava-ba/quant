@@ -23,7 +23,7 @@
 | D019 | Apr19 | https://www.yosutube.com/watch?v=zJf5B5haBjc                                           |
 | D020 | Apr20 | peer meeting                                           |
 | D021 | Apr21 | break                                           |
-| D022 | Apr22 |                                           |
+| D022 | Apr22 | industry                                           |
 | D023 | Apr23 |                                           |
 | D024 | Apr24 |                                           |
 | D025 | Apr25 |                                           |
